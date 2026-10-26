@@ -70,23 +70,7 @@ truehire/
 - [ ] User authentication and progress tracking
 
 ## Author
-Harsh Gaikwad - Final Year Project
+Harshil jani - Final Year Project
 
-## Copyright and Ownership
 
-Copyright © 2026 Harsh Gaikwad - harshgaikwaddev. All Rights Reserved.
 
-The original work in this project is owned by **Harsh Gaikwad**, subject to
-applicable law and any third-party components, dependencies, or existing
-licenses. This notice does not remove or override the licenses or attribution
-requirements of third-party software included in or used by the project.
-
-## License
-
-This project is licensed under the [MIT License](../LICENSE).
-
-Copyright (c) 2026 - Harsh Satish Gaikwad
-
-The MIT License applies to the original TrueHire project code. Third-party
-components and dependencies remain subject to their own licenses and
-attribution requirements.
